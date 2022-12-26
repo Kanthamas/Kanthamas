@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kanthamas 
 - 🧭 [visit my website here](https://portfolio-psi-orcin-50.vercel.app/)
-- 👩‍💻 [EliteMove](https://elitemove-ui.vercel.app/) JSD3 - Final group project: Sports Tracking web app using MERN stack [GitHub Repo](https://github.com/JSD3G6)
+- 👩‍💻 [EliteMove](https://elitemove-ui.vercel.app/) JSD3 - Final group project: Sports Tracking web app using MERN stack ([GitHub Repo](https://github.com/JSD3G6))
 - 👀 I’m interested in MERN stack software development
 - 🌱 I’m currently learning React,  Node, Express, MongoDB
 - 📫 Email me: codingat42@gmail.com
