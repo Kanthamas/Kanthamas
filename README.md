@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning React,  Node, Express, MongoDB
 - 📫 Email me: kanthamas.iamrhod@gmail.com
 
-![image](https://user-images.githubusercontent.com/114124443/209953054-924a569d-cd36-4388-9ffb-336187b31f2c.png)
+
 
 
 <!---
